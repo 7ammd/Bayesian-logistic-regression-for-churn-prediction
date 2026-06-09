@@ -1,6 +1,8 @@
 # 📉 Bayesian Logistic Regression for Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Ensemble_Learning-F7931E.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Wrangling-150458.svg)
 ![PyMC](https://img.shields.io/badge/PyMC-Bayesian_Inference-2E4A62.svg)
 ![ArviZ](https://img.shields.io/badge/ArviZ-MCMC_Diagnostics-00A6D6.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
